@@ -1,0 +1,13 @@
+body {
+    background-color: darkkhaki;
+}
+
+h1 {
+    background-color: brown;
+    width: 6cm;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-weight: bold;
+}
