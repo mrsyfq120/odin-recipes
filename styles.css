@@ -12,3 +12,14 @@ h1 {
 .by {
     font-weight: bold;
 }
+
+img {
+    height: 20cm;
+    width: auto;
+    float: left;
+}
+
+#desc {
+    background-color: tomato;
+    font-size: 28px;
+}
