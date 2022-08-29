@@ -1,3 +1,8 @@
 body {
     background-color: darkkhaki;
 }
+
+img {
+    height: 15cm;
+    width: auto;
+}
