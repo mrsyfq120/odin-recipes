@@ -7,3 +7,7 @@ img {
     height: 15cm;
     width: auto;
 }
+
+#desc {
+    font-weight: bolder;
+}
