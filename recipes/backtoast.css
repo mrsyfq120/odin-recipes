@@ -4,7 +4,8 @@ body {
 
 img {
     float: left;
-    width: 15cm;
+    height: 15cm;
+    width: auto;
 }
 
 #desc {
