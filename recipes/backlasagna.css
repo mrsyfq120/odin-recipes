@@ -20,3 +20,12 @@ ul {
     width: 30cm;
     background-color: mistyrose;
 }
+
+#steps {
+    font-weight: bold;
+}
+
+ol {
+    width: 45cm;
+    background-color: mistyrose;
+}
