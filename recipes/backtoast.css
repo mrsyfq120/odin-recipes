@@ -10,3 +10,12 @@ img {
 #desc {
     font-weight: bolder;
 }
+
+#ingredients {
+    font-weight: bold;
+}
+
+ul {
+    width: 20cm;
+    background-color: mistyrose;
+}
